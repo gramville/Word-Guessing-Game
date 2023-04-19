@@ -1,4 +1,3 @@
-GarriGPT
 # Word Guessing Game
 
 This is a word guessing game built with Assembly language. The program will randomly select a word from a list of words and provide the user with hints to guess the word. The user will have 3 attempts to guess the word correctly.
